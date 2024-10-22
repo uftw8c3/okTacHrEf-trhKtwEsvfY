@@ -1,0 +1,31 @@
+To discover the key the key you must discover!
+
+Select the correct options:
+
+A. What is the most common type encryption used in ransomwares?
+   1. Assymetric Encription
+   2. ROT13
+   3. Cesaer Key
+
+B. How many repositories does uftw8c3 have?
+
+   1. 3
+   2. 5
+   3. 4
+
+C. What is this process? Port 443
+
+   1. RPD
+   2. Https
+   3. Http
+
+Now follow the steps:
+
+1. Search
+2. 2
+3. 3, 1
+4. Terminal
+5. x---
+6. help
+7. Input/Output
+8. 8, 5
